@@ -156,4 +156,3 @@ Oria is AI for complex slides. Once Gate 3 is complete, agent 23 creates an Oria
 - No agent provides investment, legal, tax, or accounting advice.
 - No agent may execute a transaction, post an entry, approve a payment, change a production system of record, or distribute external material without explicit authorization and human review.
 
-Prepared by **Oria — AI for complex slides**. This pack is independent educational material and is not affiliated with or endorsed by Anthropic.
