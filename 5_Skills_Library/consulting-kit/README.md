@@ -4,7 +4,6 @@
 
 These follow the arc of a real engagement: turn a vague brief into one decision-shaped question, break it into a MECE tree, state hypotheses you could actually be wrong about, run the diagnostics that settle them, and land an answer that survives a hostile room. They are method, not templates — they make Claude reason the way a strategy team reasons, and they hold the same discipline whether the question is growth, cost or operations.
 
-They were written by [Oria](https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-consulting-skills) and published free. If the answer eventually has to become a partner-grade deck, that is what Oria does.
 
 ## The skills
 
@@ -73,36 +72,5 @@ problem-definition  →  issue-tree-builder  →  hypothesis-design
 
 A cost or operations engagement swaps the middle: `cost-driver-analysis` to find where the money actually went, then `zero-based-budget-builder` to rebuild the spend or `process-redesign` to fix the flow that created it. The framing and the landing stay the same.
 
-Then bring the storyline into PowerPoint with [Oria](https://www.oria.one/install?utm_source=github&utm_medium=readme&utm_campaign=claude-consulting-skills) to get native, editable shapes rather than an image of a slide.
 
-## Why these exist
 
-Oria builds the AI that renders complex, professional slides inside PowerPoint. Most of our users are consultants and strategy teams, and the hardest part of their job is never the drawing — it is getting to a defensible answer. So we wrote down the method: how a key question is sharpened until it is worth answering, why a hypothesis you cannot disprove is worthless, what separates a finding from an insight. None of that is proprietary, so it is published here for free.
-
-More skill packs and prompt libraries: [oria.one/resources](https://www.oria.one/resources?utm_source=github&utm_medium=readme&utm_campaign=claude-consulting-skills).
-
-## Related repositories
-
-- [claude-powerpoint-skills](https://github.com/andreworia/claude-powerpoint-skills) — storyline, exhibit and deck-review skills
-- [claude-excel-skills](https://github.com/andreworia/claude-excel-skills) — financial modelling and spreadsheet skills
-- [claude-finance-skills](https://github.com/andreworia/claude-finance-skills) — investment banking, PE and valuation skills
-- [claude-pptx-skills](https://github.com/andreworia/claude-pptx-skills) — corporate template and brand-compliance skills
-
-## Contributing
-
-Issues and pull requests are welcome. If a skill is wrong, or you have a sharper version, open a PR.
-
-## License
-
-[MIT](LICENSE) — use them commercially, modify them, redistribute them. Attribution appreciated, not required.
-
-<br />
-
-<p align="center">
-  <a href="https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-consulting-skills">
-    <img src="https://raw.githubusercontent.com/andreworia/claude-consulting-skills/main/.github/assets/oria-logo.png" width="44" alt="Oria">
-  </a>
-</p>
-<p align="center">
-  <sub>Built by <a href="https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-consulting-skills"><b>Oria</b></a> — AI for complex professional slides</sub>
-</p>
